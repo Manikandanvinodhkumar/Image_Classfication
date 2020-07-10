@@ -1,0 +1,2 @@
+# Image_Classfication
+In this project, we will classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. You'll preprocess the images, then train a convolutional neural network on all the samples. The images need to be normalized and the labels need to be one-hot encoded. we will build a convolutional, max pooling, dropout, and fully connected layers. we will see neural network's predictions on the sample images.
